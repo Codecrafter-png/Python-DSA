@@ -33,7 +33,7 @@ A number whose square ends with the number itself.
 ---
 
 ### 3. Harshad Number (`harshad_number.py`)
-**What it does:** Checks if a number is a Harshad number.
+**What it does:** Check if a number is a Harshad number.
 
 **What is a Harshad Number?**
 A number that is divisible by the sum of its digits.
